@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, Django, RestAPI**
 
-- 📫 How to reach me **almamud740@gmail.com**
+- 📫 How to reach me **almamud.tech**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Os9ZgHZQuHK65CgaSW0dZ7S1ujztYgNJ/view?usp=sharing](https://drive.google.com/file/d/1Os9ZgHZQuHK65CgaSW0dZ7S1ujztYgNJ/view?usp=sharing)
 
